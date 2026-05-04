@@ -3,6 +3,7 @@ public class BruteForce {
     public static void maxSubarray(int array[]){
         int currSum = 0;
         int maxSum = Integer.MIN_VALUE;
+        
 
         for(int i = 0; i<=array.length; i++){
             int start = i;
