@@ -10,6 +10,7 @@ public class bubbleSorting {
                     array[j+1] = temp;
                 }
             }
+            
         }
     }
 
