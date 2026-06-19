@@ -24,4 +24,3 @@ public class bubbleSorting {
         printArray(array);
     }
 }
-
